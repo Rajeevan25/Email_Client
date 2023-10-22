@@ -1,0 +1,10 @@
+Personal: Thananjanan,than,thananshayany.20@uom.lk,2022/08/29
+Official: Ushanthan,tharsigan@25gmail.com,gi
+Personal: Tharsigan,tharsigan25@gmail.com,muddy,2022/09/21
+Official: Vibulan,vibulan2000@gmail.com,CEO
+Office_friend: Kobinath,rajeevan.yoga00@gmail.com,Manager,2000/09/24
+Personal: vibulan,vibulanj.20@uom.lk,vibul,2000/09/23
+Personal: Rajeevan,rajeevan.yoga00@gmail.com,RJ,2000/09/23
+Office_friend: Malanban,malanbank.20@uom.lk,Don,2000/09/24
+Personal: Tharsikan,tharsiganj.20@uom.lk,tharsiii,2000/09/26
+Personal: Rajeevan,rajeevan.yoga00@gmail.com,raj,2000/10/01
